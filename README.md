@@ -1,3 +1,7 @@
+link -> https://delightfulweathergoapp.netlify.app/
+API used  - visual-crossing-WeatherAPI
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
